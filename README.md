@@ -4,7 +4,7 @@ I am a Full-Stack Developer focused on building clean, performant web applicatio
 
 - 🌍 Based in Pakistan
 - 🚀 Currently exploring the intersection of AI integration and decentralized systems (Web3)
-- 🌐 Portfolio: https://zaibix.pythonanywhere.com (Built with Django)
+- 🌐 Portfolio: https://zaibix.vercel.app
 
 ### Tech Stack & Tools
 
